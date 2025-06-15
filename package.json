@@ -2,10 +2,11 @@
   "name": "vertical-ring-ui",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite dev",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+  "dev": "svelte-kit dev",
+  "build": "svelte-kit build",
+  "preview": "svelte-kit preview"
+}
+,
   "devDependencies": {
     "@sveltejs/kit": "1.29.0",
     "svelte": "^3.59.2",
